@@ -1,5 +1,6 @@
-## Hi there 👋
-
+<div align="center">
+  <img src="https://imgur.com/a/YgF1Gnm">
+</div>
 <!--
 **Salvador-FM/Salvador-FM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
